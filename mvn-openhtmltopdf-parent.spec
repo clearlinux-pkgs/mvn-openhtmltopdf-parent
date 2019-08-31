@@ -4,7 +4,7 @@
 #
 Name     : mvn-openhtmltopdf-parent
 Version  : 0.0.1.rc9
-Release  : 2
+Release  : 3
 URL      : https://github.com/danfickle/openhtmltopdf/archive/openhtmltopdf-parent-0.0.1-RC9.tar.gz
 Source0  : https://github.com/danfickle/openhtmltopdf/archive/openhtmltopdf-parent-0.0.1-RC9.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9/openhtmltopdf-core-0.0.1-RC9.jar
