@@ -4,22 +4,35 @@
 #
 Name     : mvn-openhtmltopdf-parent
 Version  : 0.0.1.rc9
-Release  : 3
+Release  : 4
 URL      : https://github.com/danfickle/openhtmltopdf/archive/openhtmltopdf-parent-0.0.1-RC9.tar.gz
 Source0  : https://github.com/danfickle/openhtmltopdf/archive/openhtmltopdf-parent-0.0.1-RC9.tar.gz
-Source1  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9/openhtmltopdf-core-0.0.1-RC9.jar
-Source2  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9/openhtmltopdf-core-0.0.1-RC9.pom
-Source3  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9/openhtmltopdf-jsoup-dom-converter-0.0.1-RC9.jar
-Source4  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9/openhtmltopdf-jsoup-dom-converter-0.0.1-RC9.pom
-Source5  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-parent/0.0.1-RC9/openhtmltopdf-parent-0.0.1-RC9.pom
-Source6  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9/openhtmltopdf-pdfbox-0.0.1-RC9.jar
-Source7  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9/openhtmltopdf-pdfbox-0.0.1-RC9.pom
-Source8  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9/openhtmltopdf-rtl-support-0.0.1-RC9.jar
-Source9  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9/openhtmltopdf-rtl-support-0.0.1-RC9.pom
+Source1  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC13/openhtmltopdf-core-0.0.1-RC13.jar
+Source2  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC13/openhtmltopdf-core-0.0.1-RC13.pom
+Source3  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9/openhtmltopdf-core-0.0.1-RC9.jar
+Source4  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9/openhtmltopdf-core-0.0.1-RC9.pom
+Source5  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC13/openhtmltopdf-jsoup-dom-converter-0.0.1-RC13.jar
+Source6  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC13/openhtmltopdf-jsoup-dom-converter-0.0.1-RC13.pom
+Source7  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9/openhtmltopdf-jsoup-dom-converter-0.0.1-RC9.jar
+Source8  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9/openhtmltopdf-jsoup-dom-converter-0.0.1-RC9.pom
+Source9  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-parent/0.0.1-RC13/openhtmltopdf-parent-0.0.1-RC13.pom
+Source10  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-parent/0.0.1-RC9/openhtmltopdf-parent-0.0.1-RC9.pom
+Source11  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC13/openhtmltopdf-pdfbox-0.0.1-RC13.jar
+Source12  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC13/openhtmltopdf-pdfbox-0.0.1-RC13.pom
+Source13  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9/openhtmltopdf-pdfbox-0.0.1-RC9.jar
+Source14  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9/openhtmltopdf-pdfbox-0.0.1-RC9.pom
+Source15  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC13/openhtmltopdf-rtl-support-0.0.1-RC13.jar
+Source16  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC13/openhtmltopdf-rtl-support-0.0.1-RC13.pom
+Source17  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9/openhtmltopdf-rtl-support-0.0.1-RC9.jar
+Source18  : https://repo1.maven.org/maven2/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9/openhtmltopdf-rtl-support-0.0.1-RC9.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
-License  : LGPL-2.1 LGPL-3.0 W3C
+License  : LGPL-2.0 LGPL-2.1 LGPL-3.0 W3C
 Requires: mvn-openhtmltopdf-parent-data = %{version}-%{release}
+Requires: mvn-openhtmltopdf-parent-license = %{version}-%{release}
+BuildRequires : apache-ant
+BuildRequires : apache-maven
+BuildRequires : buildreq-mvn
 
 %description
 XML Entity Declarations for Characters
@@ -34,37 +47,78 @@ Group: Data
 data components for the mvn-openhtmltopdf-parent package.
 
 
+%package license
+Summary: license components for the mvn-openhtmltopdf-parent package.
+Group: Default
+
+%description license
+license components for the mvn-openhtmltopdf-parent package.
+
+
 %prep
+%setup -q -n openhtmltopdf-openhtmltopdf-parent-0.0.1-RC9
 
 %build
 
 %install
-mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9
-cp %{SOURCE1} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9
+mkdir -p %{buildroot}/usr/share/package-licenses/mvn-openhtmltopdf-parent
+cp LICENSE-LGPL-2.1.txt %{buildroot}/usr/share/package-licenses/mvn-openhtmltopdf-parent/LICENSE-LGPL-2.1.txt
+cp LICENSE-LGPL-3.txt %{buildroot}/usr/share/package-licenses/mvn-openhtmltopdf-parent/LICENSE-LGPL-3.txt
+cp LICENSE-W3C-TEST %{buildroot}/usr/share/package-licenses/mvn-openhtmltopdf-parent/LICENSE-W3C-TEST
+cp obsolete-archive/LICENSE-GPL-2.txt %{buildroot}/usr/share/package-licenses/mvn-openhtmltopdf-parent/obsolete-archive_LICENSE-GPL-2.txt
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC13
+cp %{SOURCE1} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC13/openhtmltopdf-core-0.0.1-RC13.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC13
+cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC13/openhtmltopdf-core-0.0.1-RC13.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9
-cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9
+cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9/openhtmltopdf-core-0.0.1-RC9.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9
+cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9/openhtmltopdf-core-0.0.1-RC9.pom
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC13
+cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC13/openhtmltopdf-jsoup-dom-converter-0.0.1-RC13.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC13
+cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC13/openhtmltopdf-jsoup-dom-converter-0.0.1-RC13.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9
-cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9
+cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9/openhtmltopdf-jsoup-dom-converter-0.0.1-RC9.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9
-cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9
+cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9/openhtmltopdf-jsoup-dom-converter-0.0.1-RC9.pom
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-parent/0.0.1-RC13
+cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-parent/0.0.1-RC13/openhtmltopdf-parent-0.0.1-RC13.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-parent/0.0.1-RC9
-cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-parent/0.0.1-RC9
+cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-parent/0.0.1-RC9/openhtmltopdf-parent-0.0.1-RC9.pom
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC13
+cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC13/openhtmltopdf-pdfbox-0.0.1-RC13.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC13
+cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC13/openhtmltopdf-pdfbox-0.0.1-RC13.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9
-cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9
+cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9/openhtmltopdf-pdfbox-0.0.1-RC9.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9
-cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9
+cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9/openhtmltopdf-pdfbox-0.0.1-RC9.pom
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC13
+cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC13/openhtmltopdf-rtl-support-0.0.1-RC13.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC13
+cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC13/openhtmltopdf-rtl-support-0.0.1-RC13.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9
-cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9
+cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9/openhtmltopdf-rtl-support-0.0.1-RC9.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9
-cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9
+cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9/openhtmltopdf-rtl-support-0.0.1-RC9.pom
 
 
 %files
@@ -72,12 +126,28 @@ cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/com/openhtmltopdf/openh
 
 %files data
 %defattr(-,root,root,-)
+/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC13/openhtmltopdf-core-0.0.1-RC13.jar
+/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC13/openhtmltopdf-core-0.0.1-RC13.pom
 /usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9/openhtmltopdf-core-0.0.1-RC9.jar
 /usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9/openhtmltopdf-core-0.0.1-RC9.pom
+/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC13/openhtmltopdf-jsoup-dom-converter-0.0.1-RC13.jar
+/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC13/openhtmltopdf-jsoup-dom-converter-0.0.1-RC13.pom
 /usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9/openhtmltopdf-jsoup-dom-converter-0.0.1-RC9.jar
 /usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9/openhtmltopdf-jsoup-dom-converter-0.0.1-RC9.pom
+/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-parent/0.0.1-RC13/openhtmltopdf-parent-0.0.1-RC13.pom
 /usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-parent/0.0.1-RC9/openhtmltopdf-parent-0.0.1-RC9.pom
+/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC13/openhtmltopdf-pdfbox-0.0.1-RC13.jar
+/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC13/openhtmltopdf-pdfbox-0.0.1-RC13.pom
 /usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9/openhtmltopdf-pdfbox-0.0.1-RC9.jar
 /usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9/openhtmltopdf-pdfbox-0.0.1-RC9.pom
+/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC13/openhtmltopdf-rtl-support-0.0.1-RC13.jar
+/usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC13/openhtmltopdf-rtl-support-0.0.1-RC13.pom
 /usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9/openhtmltopdf-rtl-support-0.0.1-RC9.jar
 /usr/share/java/.m2/repository/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9/openhtmltopdf-rtl-support-0.0.1-RC9.pom
+
+%files license
+%defattr(0644,root,root,0755)
+/usr/share/package-licenses/mvn-openhtmltopdf-parent/LICENSE-LGPL-2.1.txt
+/usr/share/package-licenses/mvn-openhtmltopdf-parent/LICENSE-LGPL-3.txt
+/usr/share/package-licenses/mvn-openhtmltopdf-parent/LICENSE-W3C-TEST
+/usr/share/package-licenses/mvn-openhtmltopdf-parent/obsolete-archive_LICENSE-GPL-2.txt
